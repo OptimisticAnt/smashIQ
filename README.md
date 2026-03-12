@@ -1,1 +1,1 @@
-# smashIQ
+# SmashIQ
